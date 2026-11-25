@@ -1,5 +1,5 @@
 student_name="Anusha"
-marks=85
+marks=90
 print("STUDENT MANAGEMENT SYSTEM")
 print("Student Name:", student_name)
 print("Marks:", marks)
